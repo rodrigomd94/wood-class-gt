@@ -27,7 +27,11 @@ function setup() {
 
 
   // Create the video
-  video = createCapture(VIDEO);
+  video = createCapture(VIDEO,{
+    audio: false,
+  video: {
+    facingMode:"environment"
+  }});
   video.hide();
 
   // STEP 2: Start classifying
