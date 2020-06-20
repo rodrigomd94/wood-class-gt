@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+    padding:0;
+    margin:0;
+  }
+  #myCanvas{
+      width:56vh;
+      height: 100vh;
+      position: absolute;
+      left:0;
+  }
+  #parentDiv{
+    text-align:center;
+    width:100vw;
+    margin:0;
+    padding:0;
+  }
