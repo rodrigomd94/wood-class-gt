@@ -1,0 +1,28 @@
+{
+  "name": "wood-id",
+  "version": "1.0.0",
+  "description": "Wood identification app with ML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigomd94/wood-class-gt.git"
+  },
+  "keywords": [
+    "wood",
+    "id"
+  ],
+  "author": "Rodrigo Molina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigomd94/wood-class-gt/issues"
+  },
+  "homepage": "https://github.com/rodrigomd94/wood-class-gt#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
