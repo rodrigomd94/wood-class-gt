@@ -11,7 +11,6 @@ html, body {
       width:56vh;
       height: 100vh;
       position: absolute;
-      left:0;
   }
   #parentDiv{
     text-align:center;
